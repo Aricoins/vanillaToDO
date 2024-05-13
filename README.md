@@ -1,6 +1,6 @@
 # Lista de Tareas SPA
 
-Esta es una aplicación web de lista de tareas simple desarrollada utilizando JavaScript Vanilla para Sergi Code.
+Esta es una SPA de lista de tareas desarrollada utilizando JavaScript Vanilla para Sergi Code.
 
 ## Funcionalidades
 
